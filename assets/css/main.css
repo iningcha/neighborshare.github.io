@@ -2238,7 +2238,7 @@
 /* Box */
 
 	.box {
-		background: pink;
+		background: #fff;
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
@@ -2428,6 +2428,7 @@
 		}
 
 		.image.left {
+			background: pink;
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
