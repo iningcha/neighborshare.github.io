@@ -2428,7 +2428,8 @@
 		}
 
 		.image.left {
-			background: pink;
+			background: white;
+			height: 150%;
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
